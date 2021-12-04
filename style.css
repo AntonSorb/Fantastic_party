@@ -1,0 +1,86 @@
+body {
+    font-size: 17px;
+    color: rgb(59, 41, 59);
+    font-family: sans-serif;
+    background-color: rgb(214, 183, 255);
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(217, 171, 255);
+    border-radius: 5px;
+    padding: 3px;
+    color: rgb(59, 41, 59);
+    border: 1px solid rgb(59, 41, 59);
+}
+
+header {
+    border-radius: 2px;
+    background-color: rgb(202, 162, 255);
+    padding: 10px;
+    border: 1px solid rgb(59, 41, 59);
+}
+
+header a {
+    text-decoration: none;
+    background-color: rgb(217, 171, 255);
+    border-radius: 5px;
+    padding: 4px;
+    color: rgb(59, 41, 59);
+    border: 1px solid rgb(59, 41, 59);
+}
+
+header img {
+    border: 1px solid rgb(59, 41, 59);
+}
+
+h1 {
+    color: rgb(59, 41, 59);
+    text-align: center;
+    font-size: 51px;
+}
+
+footer {
+    border-radius: 2px;
+    border: 1px solid rgb(59, 41, 59);
+    background-color: rgb(202, 162, 255);
+    text-align: unset;
+    padding: 8px;
+}
+
+footer p {
+    border: 1px solid rgb(59, 41, 59);
+    padding: 7px;
+    background-color: rgb(217, 171, 255);
+}
+
+nav {
+    border-radius: 2px;
+    padding: 10px;
+    background-color: rgb(202, 162, 255);
+    border-bottom: 1px solid rgb(59, 41, 59);
+    border-left: 1px solid rgb(59, 41, 59);
+    border-right: 1px solid rgb(59, 41, 59);
+}
+
+nav a {
+    margin: 26px;
+    border: 1px solid rgb(59, 41, 59);
+    padding: 4px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: rgb(59, 41, 59);
+    background-color: rgb(217, 171, 255);
+}
+
+.produc {
+    background-color: rgb(186, 125, 255);
+}
+
+.feyr {
+    border-radius: 2px;
+    border: 1px solid rgb(59, 41, 59);
+    background-color: rgb(202, 162, 255);
+    text-align: center;
+    padding: 8px;
+}
